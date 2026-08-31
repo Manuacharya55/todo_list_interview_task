@@ -2,7 +2,7 @@
 
 A modern, production-grade full-stack Todo application built with the **MERN** stack (MongoDB, Express, React, Node.js). Engineered with a robust MVC backend, clean component-driven frontend architecture, and a minimal shadcn-inspired user interface.
 
-🚀 **Live Preview:** [https://todo-list-interview-task.vercel.app](https://todo-list-interview-task.vercel.app/)
+🚀 **Live Preview:** [https://todo-list-interview-task.vercel.app/](https://todo-list-interview-task-1l55.vercel.app/)
 
 ---
 
